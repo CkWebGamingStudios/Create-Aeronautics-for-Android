@@ -6,7 +6,7 @@ Step 3 Open Zlaith Launcher and select Install.
 Step 4 Open Zlaith Launcher Click on Install/Import Instance and select ./Aerodroid.zip.
 Step 5 Run ./Apks/GLUES Renderer.apk.
 Step 6 Open Zlaith Launcher Go to Settings and select GLUES renerer from the renderer list.
-Step 7 Install ./Apks/ZSTD_jni_plugin.apk,Sable_Rapier_Plugin.apk,Iamgui_java_plugin.apk.
+Step 7 Install ./Apks/ZSTD_jni_plugin.apk,Sable_Rapier_Plugin.apk,Iamgui_java_plugin.apk.(Optional)
 Step 8 Open GLUES renderer app and make sure You match these settings :
        Max GLS Cache Sicer to disable
        128
