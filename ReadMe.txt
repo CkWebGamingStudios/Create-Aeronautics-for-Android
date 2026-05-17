@@ -1,5 +1,6 @@
-Best Way To run Create Aeronautics on Android 
+Best Way To run Create Aeronautics on Android
 
+Step 0 Install this Repo
 Step 1 Run ./Apks/Zlaith Launcher.apk.
 Step 2 Open Zlaith Launcher Sign up/Sign in with a Offline/Minecraft account
 Step 3 Open Zlaith Launcher and select Install.
